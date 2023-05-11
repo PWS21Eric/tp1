@@ -1,2 +1,14 @@
-# tp1
-...
+# README #
+Este es un repositorio de ...
+
+### NOMBRE Y APELLIDO:  ###
+ERIC VALLEJOS
+
+### MATERIA: ###
+TALLER DE INGENIERIA DE SOFTWARE
+
+### CURSO: ###
+7º2º
+
+### COLEGIO ###
+COLEGIO TECNICO PROVINCINCIAL "OLGA B. DE ARKO"
