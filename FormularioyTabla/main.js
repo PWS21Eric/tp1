@@ -115,7 +115,7 @@ Comentar múltiples líneas de código:
 En Windows/Linux: Selecciona las líneas y presiona Shift + Alt + A.
 */
 
-
+/*sale un lolcito?*/
 
 
 
